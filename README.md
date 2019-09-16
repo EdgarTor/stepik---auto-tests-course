@@ -1,2 +1,3 @@
 # stepik---auto-tests-course
-homeworks
+Homeworks.
+This is a test project
